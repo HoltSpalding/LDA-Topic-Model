@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/holt/comp150/finalproject/kanyeinutero/hello/src/main/scala/LDA.scala:218:13: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Array[Double][0m
+[0m[[0m[31merror[0m] [0m[0m						t = j.toDouble;[0m
+[0m[[0m[31merror[0m] [0m[0m						      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/holt/comp150/finalproject/kanyeinutero/hello/src/main/scala/LDA.scala:221:13: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Array[Double][0m
+[0m[[0m[31merror[0m] [0m[0m						t = j.toDouble;[0m
+[0m[[0m[31merror[0m] [0m[0m						      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/holt/comp150/finalproject/kanyeinutero/hello/src/main/scala/LDA.scala:224:13: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Array[Double][0m
+[0m[[0m[31merror[0m] [0m[0m						t = j.toDouble;[0m
+[0m[[0m[31merror[0m] [0m[0m						      ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
