@@ -9,5 +9,4 @@ in the root directory.
 
 The model pulls .txt documents from the ``src/main/resources`` folder and seperates them 
 into K topics, as specified by the ``K`` parameter in the LDA class constructor. ``src/main/scala/WikiParser.scala`` 
-can be used to pull and preprocess Wikipedia articles given a list of links in the ``src/main/articles/links.txt`` 
-file. 
+can be used to pull and preprocess Wikipedia articles given a list of links in``src/main/articles/links.txt`` 
